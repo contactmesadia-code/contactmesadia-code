@@ -75,7 +75,42 @@ AI Content Creation • AI Image Generation • AI Video Creation
 AI Website Builders • AI-Assisted Website Design
 
 ---
+<h2 align="center">💜 Digital Skills & Expertise</h2>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Digital_Marketing-7B2CBF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Motion_Graphics-9333EA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI_Solutions-6D28D9?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI_Website_Creation-8B5CF6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Creative_Design-A855F7?style=for-the-badge" />
+
+</p>
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Motion Graphics Projects
+Creative motion graphics, promotional animations,
+and engaging visual content.
+
+### 🤖 AI Creative Projects
+Exploring AI-powered content, images, videos,
+and creative digital solutions.
+
+### 🌐 AI-Powered Websites
+Websites created using modern AI tools
+and no-code technologies.
+
+### 📈 Digital Marketing Projects
+Creative digital campaigns, branding,
+and online marketing solutions.
+
+---
 ## 🎨 My Portfolio
 
 Explore my creative work and digital projects.
@@ -85,6 +120,23 @@ Explore my creative work and digital projects.
 ---
 
 ## 📩 Let's Connect
+<h2 align="center">🤝 Let's Work Together</h2>
+
+<p align="center">
+
+<a href="mailto:contactmesadia@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1FgKdAZgT4/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/dilshadsadia">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+</p>
 
 I'm always open to creative collaborations and exciting digital projects.
 
