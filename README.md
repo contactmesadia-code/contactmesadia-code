@@ -17,8 +17,5 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/share/1jjgmtitcx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1jjgmtitcx/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=contactmesadia-code&show_icons=true&locale=en&layout=compact" alt="contactmesadia-code" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=contactmesadia-code&show_icons=true&locale=en" alt="contactmesadia-code" /></p>
 
