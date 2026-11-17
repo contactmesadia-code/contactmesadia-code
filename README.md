@@ -18,7 +18,8 @@
 <a href="https://www.facebook.com/share/1FgKdAZgT4/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
 </a>
-## 👩‍💻 About Me
+</p>
+  ## 👩‍💻 About Me
 
 I'm **Dilshad Jahan**, a passionate digital professional specializing in Digital Marketing, Motion Graphics, and AI-powered creative solutions.
 
@@ -54,6 +55,22 @@ My focus is on delivering creative, effective, and innovative digital solutions.
 - Social Media Content
 - Digital Promotional Materials
 - Creative Brand Visuals
+
+------
+
+## 🛠️ Skills & Tools
+
+### 📈 Digital Marketing
+Social Media Marketing • Digital Strategy • Brand Promotion
+
+### 🎬 Motion Graphics
+Motion Graphics • Video Editing • Creative Design
+
+### 🤖 AI Tools & Solutions
+AI Content Creation • AI Image Generation • AI Video Creation
+
+### 🌐 AI-Powered Website Creation
+AI Website Builders • AI-Assisted Website Design
 
 ---
 
