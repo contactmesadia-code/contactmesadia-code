@@ -49,9 +49,38 @@ My focus is on delivering creative, effective, and innovative digital solutions.
 - AI Tools for Digital Projects
 
 🌐 **AI-Powered Website Creation**
-- AI-Assisted Website Creation
-- Modern Website Design Using AI Tools
-- AI-Based Website Solutions
+### 🌐 AI-Powered Website Projects
+
+#### 💜 GLORAZ BEAUTY — AI-Created Website
+
+**Project Type:** Beauty & Skincare Website
+
+**Created By:** Dilshad Jahan
+
+**Development Approach:** Fully AI-Powered Website Creation
+
+**Project Overview:**
+
+GLORAZ BEAUTY is a beauty and skincare
+website created using AI technology.
+
+This project demonstrates my ability to
+transform creative ideas into functional
+websites using AI-powered tools.
+
+**✨ Project Highlights:**
+
+- AI-Powered Website Creation
+- Beauty & Skincare Website
+- Creative Digital Design
+- AI-Assisted Website Building
+- Modern Visual Presentation
+
+### 🔗 Live Website
+
+[🌐 Visit GLORAZ BEAUTY](https://glorazbeauty.ai.studio/)
+
+---
 
 ✨ **Creative Digital Content**
 - Social Media Content
