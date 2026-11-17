@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="file_00000000f9bc8211a0b61675c8431e80.png" alt="Dilshad Jahan Professional Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Dilshad Jahan</h1>
 <h3 align="center">Digital Marketer | AI Website & Digital Solutions</h3>
 
