@@ -20,8 +20,6 @@
 </a>
 </p>
 ## 👩‍💻 About Me
-  
-  ## 👩‍💻 About Me
 
 I'm **Dilshad Jahan**, a passionate digital professional specializing in Digital Marketing, Motion Graphics, and AI-powered creative solutions.
 
