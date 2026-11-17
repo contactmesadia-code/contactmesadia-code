@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
 </a>
 </p>
-## 👩‍💻 About Me
 
 I'm **Dilshad Jahan**, a passionate digital professional specializing in Digital Marketing, Motion Graphics, and AI-powered creative solutions.
 
