@@ -15,7 +15,61 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/1jjgmtitcx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1jjgmtitcx/" height="30" width="40" /></a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=contactmesadia-code&show_icons=true&locale=en" alt="contactmesadia-code" /></p>
+<a href="https://www.facebook.com/share/1FgKdAZgT4/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
+</a>
+## 👩‍💻 About Me
+
+I'm **Dilshad Jahan**, a passionate digital professional specializing in Digital Marketing, Motion Graphics, and AI-powered creative solutions.
+
+I love combining creativity with modern AI technologies to help businesses build a strong digital presence.
+
+My focus is on delivering creative, effective, and innovative digital solutions.
+
+---
+
+## 💼 My Services
+
+📈 **Digital Marketing Services**
+- Social Media Marketing
+- Digital Marketing Strategies
+- Online Brand Promotion
+
+🎬 **Motion Graphics & Creative Design**
+- Motion Graphics
+- Creative Visual Content
+- Promotional Video Content
+
+🤖 **AI Tools & Digital Solutions**
+- AI-Powered Content Creation
+- AI Creative Solutions
+- AI Tools for Digital Projects
+
+🌐 **AI-Powered Website Creation**
+- AI-Assisted Website Creation
+- Modern Website Design Using AI Tools
+- AI-Based Website Solutions
+
+✨ **Creative Digital Content**
+- Social Media Content
+- Digital Promotional Materials
+- Creative Brand Visuals
+
+---
+
+## 🎨 My Portfolio
+
+Explore my creative work and digital projects.
+
+🔗 **Behance Portfolio:** [View My Work](https://www.behance.net/dilshadsadia)
+
+---
+
+## 📩 Let's Connect
+
+I'm always open to creative collaborations and exciting digital projects.
+
+📧 **Email:** contactmesadia@gmail.com
+
+---
 
