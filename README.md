@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contactmesadia-code&label=Profile%20views&color=0e75b6&style=flat" alt="contactmesadia-code" /> </p>
 
-- 🔭 I’m currently working on [Digital Marketing, AI Tools & Website Solutions](https://glorazbeauty.ai.studio/)
+-  I’m currently working on [Digital Marketing, AI Tools & Website Solutions](https://glorazbeauty.ai.studio/)
 
-- 🌱 I’m currently learning **Advanced AI Tools**
+-  I’m currently learning **Advanced AI Tools**
 
-- 💬 Ask me about **Digital Marketing, Motion Graphics, AI Tools & Websites**
+-  Ask me about **Digital Marketing, Motion Graphics, AI Tools & Websites**
 
-- 📫 How to reach me **contactmesadia@gmail.com**
+-  How to reach me **contactmesadia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@ My focus is on delivering creative, effective, and innovative digital solutions.
 
 ---
 
-## 💼 My Services
+##  My Services
 
 📈 **Digital Marketing Services**
 - Social Media Marketing
@@ -46,37 +46,6 @@ My focus is on delivering creative, effective, and innovative digital solutions.
 - AI Tools for Digital Projects
 
 🌐 **AI-Powered Website Creation**
-### 🌐 AI-Powered Website Projects
-
-#### 💜 GLORAZ BEAUTY — AI-Created Website
-
-**Project Type:** Beauty & Skincare Website
-
-**Created By:** Dilshad Jahan
-
-**Development Approach:** Fully AI-Powered Website Creation
-
-**Project Overview:**
-
-GLORAZ BEAUTY is a beauty and skincare
-website created using AI technology.
-
-This project demonstrates my ability to
-transform creative ideas into functional
-websites using AI-powered tools.
-
-**✨ Project Highlights:**
-
-- AI-Powered Website Creation
-- Beauty & Skincare Website
-- Creative Digital Design
-- AI-Assisted Website Building
-- Modern Visual Presentation
-
-### 🔗 Live Website
-
-[🌐 Visit GLORAZ BEAUTY](https://glorazbeauty.ai.studio/)
-
 ---
 
 ✨ **Creative Digital Content**
@@ -119,6 +88,36 @@ AI Website Builders • AI-Assisted Website Design
 ---
 
 ## 🚀 Featured Projects
+### 🌐 AI-Powered Website Projects
+
+#### 💜 GLORAZ BEAUTY — AI-Created Website
+
+**Project Type:** Beauty & Skincare Website
+
+**Created By:** Dilshad Jahan
+
+**Development Approach:** Fully AI-Powered Website Creation
+
+**Project Overview:**
+
+GLORAZ BEAUTY is a beauty and skincare
+website created using AI technology.
+
+This project demonstrates my ability to
+transform creative ideas into functional
+websites using AI-powered tools.
+
+**✨ Project Highlights:**
+
+- AI-Powered Website Creation
+- Beauty & Skincare Website
+- Creative Digital Design
+- AI-Assisted Website Building
+- Modern Visual Presentation
+
+### 🔗 Live Website
+
+[🌐 Visit GLORAZ BEAUTY](https://glorazbeauty.ai.studio/)
 
 ### 🎬 Motion Graphics Projects
 Creative motion graphics, promotional animations,
